@@ -1,5 +1,5 @@
 var denom = [
-	{ name: 'ONE HUNDRED', val : 100},
+	{ name: 'ONE HUNDRED', val : 100}, 
 	{ name: 'TWENTY', val: 20},
 	{ name: 'TEN', val: 10},
 	{ name: 'FIVE', val: 5},
