@@ -8,7 +8,7 @@ var denom = [
 	{ name: 'DIME', val: 0.1}, 
 	{ name: 'NICKEL', val : 0.05},  
 	{ name: 'PENNY', val : 0.01}
-];
+]; 
 
 function checkCashRegister(price, cash, cid) {
  var output = {status: null, change: []};  
