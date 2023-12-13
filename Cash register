@@ -12,7 +12,7 @@ var denom = [
  
 function checkCashRegister(price, cash, cid) { 
  var output = {status: null, change: []};  
- var change = cash - price;
+ var change = cash - price; 
  var register = cid.reduce(function(acc, curr) {
  acc.total += curr[1];
  acc[curr[0]] = curr[1]; 
