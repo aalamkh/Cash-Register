@@ -6,7 +6,7 @@ var denom = [
 	{ name: 'ONE', val: 1}, 
 	{ name: 'QUARTER', val: 0.25},   
 	{ name: 'DIME', val: 0.1},  
-	{ name: 'NICKEL', val : 0.05},   
+	{ name: 'NICKEL', val : 0.05},    
 	{ name: 'PENNY', val : 0.01}  
 ];  
  
