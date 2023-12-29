@@ -10,7 +10,7 @@ var denom = [
 	{ name: 'PENNY', val : 0.01}  
 ];  
    
-function checkCashRegister(price, cash, cid) { 
+function checkCashRegister(price, cash, cid) {  
  var output = {status: null, change: []};  
  var change = cash - price;  
  var register = cid.reduce(function(acc, curr) {
