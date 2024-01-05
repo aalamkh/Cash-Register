@@ -7,7 +7,7 @@ var denom = [
 	{ name: 'QUARTER', val: 0.25},    
 	{ name: 'DIME', val: 0.1},    
 	{ name: 'NICKEL', val : 0.05},    
-	{ name: 'PENNY', val : 0.01}  
+	{ name: 'PENNY', val : 0.01}   
 ];   
     
 function checkCashRegister(price, cash, cid) {    
